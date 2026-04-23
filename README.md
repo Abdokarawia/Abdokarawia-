@@ -1,382 +1,364 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                          ✨ HERO ✨                               -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=%E2%9C%A6%20KARAWIA%20%E2%9C%A6&fontSize=78&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=~%20crafting%20pixels%20%26%20poetry%20in%20dart%20~&descSize=20&descAlignY=62&descAlign=50&descColor=e0c3fc&animation=twinkling"/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
+<!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
+<a href="https://karawia-portfolio.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=220&section=header&text=Abdelrahman%20Karawia&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%204%2B%20Years%20%7C%20Clean%20Architecture&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header"/>
+</a>
+
+<!-- ===== Typing Tagline ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=38&duration=3000&pause=500&color=E0C3FC&center=true&vCenter=true&width=800&height=80&lines=hello%2C+i'm+abdelrahman+%F0%9F%8C%99;flutter+alchemist+%E2%9C%A6+code+poet;i+turn+coffee+into+apps+%E2%98%95;%22make+it+dance%22+is+my+motto+%F0%9F%92%AB" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Cross-Platform+Apps+%E2%80%A2+Fintech+%E2%80%A2+Fleet+Ops+%E2%80%A2+Healthcare;Clean+Architecture+%7C+Bloc+%7C+Offline-First+Sync;Shipped+15%2B+Production+Releases+%E2%80%A2+10%2C000%2B+Users" alt="Typing SVG" />
 </a>
 
 <br/>
 
-```
-   ꙳    ·        ⋆   ·      ·    ꙳        ⋆
- ·    ⋆    ·   ꙳        ⋆  ·        ꙳    ·
-```
+<!-- ===== Quick Links ===== -->
+<p>
+  <a href="https://karawia-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdelrahman-karawia-3aa1b0200/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdelrahmankarawia2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/Abdokarawia2">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="tel:+201116660056">
+    <img src="https://img.shields.io/badge/%2B20%20111%20666%200056-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/🌍_cairo-egypt-ff6b9d?style=flat-square&labelColor=1a1625"/>
-<img src="https://img.shields.io/badge/☕_coffee_level-critical-ffa07a?style=flat-square&labelColor=1a1625"/>
-<img src="https://img.shields.io/badge/🌸_vibe-dreamy-e0c3fc?style=flat-square&labelColor=1a1625"/>
-<img src="https://img.shields.io/badge/✨_status-available-95d5b2?style=flat-square&labelColor=1a1625"/>
+<!-- ===== Profile Stats ===== -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abdokarawia&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Abdokarawia?label=Followers&style=for-the-badge&color=3b82f6&labelColor=0f172a" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Abdokarawia?label=Stars&style=for-the-badge&color=3b82f6&labelColor=0f172a" alt="stars"/>
+</p>
 
 </div>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                        🌙 ABOUT ME 🌙                            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## &nbsp;🌙&nbsp; a little about me
-
-<table>
-<tr>
-<td width="60%">
+<!-- ====== ABOUT ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  &nbsp; About Me
+</h2>
 
 ```yaml
-✧ name: abdelrahman karawia
-✧ title: flutter developer & pixel whisperer
-✧ years_in_code: 4+
-✧ apps_shipped: 15+
-✧ users_reached: 10,000+
-✧ location: egypt 🇪🇬
-✧ fuel: { coffee: ∞, music: lofi, dreams: big }
-✧ currently: building beautiful mobile experiences
-✧ mood: "ship it with love 💌"
+name:     Abdelrahman Ibrahim Karawia
+role:     Senior Flutter Developer @ NYOTA Studio
+location: Cairo, Egypt 🇪🇬
+focus:    [Fintech, E-commerce, Healthcare, Fleet Operations]
+stack:    Flutter · Dart · Bloc · Riverpod · Clean Architecture
+currently:
+  - 🚀 Building Tie Driver, Tie Work & Manpower (200+ active users)
+  - 🧱 Architecting offline-first SQLite sync layers
+  - 🧪 Pushing 80%+ test coverage on core business logic
+  - 🤖 Exploring AI-assisted dev workflows (MCP, Spec-Kit, Copilot)
+motto:    "Ship production-grade apps that users actually love."
 ```
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNlbmJhOTZtZmpuMWZycjJ0dXh3bjMyMmRnMDhmenVqZXF5aGNwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" style="border-radius: 12px;"/>
-
-<sub>*// in my element*</sub>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                       💫 THE NUMBERS 💫                          -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## &nbsp;💫&nbsp; the numbers (that actually matter)
-
-<div align="center">
+<!-- ====== HIGHLIGHTS ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>
+  &nbsp; Career Highlights
+</h2>
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <h1>🚀</h1>
-      <h2>15<sup>+</sup></h2>
-      <sub><i>apps sent into the wild</i></sub>
+      <h1>4+</h1>
+      <sub><b>Years Experience</b></sub>
     </td>
     <td align="center" width="25%">
-      <h1>💖</h1>
-      <h2>10K<sup>+</sup></h2>
-      <sub><i>humans using them daily</i></sub>
+      <h1>15+</h1>
+      <sub><b>Apps Shipped</b></sub>
     </td>
     <td align="center" width="25%">
-      <h1>🌟</h1>
-      <h2>5<sup>★</sup></h2>
-      <sub><i>client love letters</i></sub>
+      <h1>10K+</h1>
+      <sub><b>Active Users</b></sub>
     </td>
     <td align="center" width="25%">
-      <h1>🏆</h1>
-      <h2>#1</h2>
-      <sub><i>university AI champion</i></sub>
+      <h1>100%</h1>
+      <sub><b>On-Time Delivery</b></sub>
     </td>
   </tr>
 </table>
 
-</div>
+<br/>
+
+<!-- ====== TECH STACK ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+  &nbsp; Tech Stack
+</h2>
+
+<h4>📱 &nbsp; Mobile Development</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+</p>
+
+<h4>⚡ &nbsp; State Management & Architecture</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Bloc%2FCubit-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=riverpod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-9B59B6?style=for-the-badge&logo=getx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1f2937?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-0f172a?style=for-the-badge&logoColor=white"/>
+</p>
+
+<h4>🗄️ &nbsp; Databases & Storage</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secure%20Storage-1f2937?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<h4>🚀 &nbsp; DevOps & Testing</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codemagic-F45D43?style=for-the-badge&logo=codemagic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mockito-C21325?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<h4>🤖 &nbsp; Languages & AI Tools</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+</p>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    🎨 TOOLS I PLAY WITH 🎨                       -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## &nbsp;🎨&nbsp; tools i play with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma&perline=4" /><br/>
-<sub>&nbsp;*` the holy quartet `*</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=kotlin,swift,python,nodejs,postgresql,sqlite&perline=6" /><br/>
-<sub>*` occasional flings `*</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,androidstudio,linux&perline=6" /><br/>
-<sub>*` daily companions `*</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| `✦ state` | `✦ architecture` | `✦ secrets` |
-|:---:|:---:|:---:|
-| bloc · cubit · riverpod | clean · mvvm · solid | AES-256 · NFC · biometrics |
-| *predictable magic* | *zen for your codebase* | *fort knox vibes* |
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                     🌻 THE JOURNEY 🌻                            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## &nbsp;🌻&nbsp; the journey so far
-
-```
-   ┌─────────────────────────────────────────────────────────────┐
-   │                                                             │
-   │   2022 ─── 2023 ─── 2024 ─── 2025 ─── now ✨                │
-   │     │       │       │         │                            │
-   │   ektml   happy   spectrum   nyota                          │
-   │   (oh    (went    (gov       (senior                        │
-   │   hi!)    global) work)      flutter dev)                   │
-   │                                                             │
-   └─────────────────────────────────────────────────────────────┘
-```
-
-<details open>
-<summary><b>&nbsp;🌸&nbsp; nyota studio &nbsp;·&nbsp; senior flutter dev &nbsp;·&nbsp; <i>right now</i></b></summary>
-
-<br/>
-
-> *alexandria, egypt · full-time, hybrid*
->
-> i own the architecture for **tie driver**, **tie work**, and **manpower** — apps that 200+ humans actually rely on every day. built offline-first SQLite sync that cut data issues by **45%**. got our test coverage past **80%**. it's glorious.
-
-</details>
-
-<details>
-<summary><b>&nbsp;🌺&nbsp; happy softwares &nbsp;·&nbsp; flutter dev &nbsp;·&nbsp; <i>mar '23 – apr '25</i></b></summary>
-
-<br/>
-
-> *remote · saudi arabia*
->
-> shipped **8+ apps** for clients across fintech, e-com, and healthcare. built shared packages that 6 projects adopted, cutting dev time by **25%**. maintained a perfect **5-star** streak. delivered every single thing on time. every. single. one.
-
-</details>
-
-<details>
-<summary><b>&nbsp;🌷&nbsp; spectrum info systems &nbsp;·&nbsp; flutter dev &nbsp;·&nbsp; <i>feb – jul '24</i></b></summary>
-
-<br/>
-
-> *cairo, egypt · contract*
->
-> built the **egyptian drug authority** app for pharmaceutical regulatory compliance. **500+ government officials** using it. integrated 12+ endpoints with offline queuing because internet is a myth sometimes.
-
-</details>
-
-<details>
-<summary><b>&nbsp;🌹&nbsp; ektml tech &nbsp;·&nbsp; flutter dev &nbsp;·&nbsp; <i>jan '22 – jan '23</i></b></summary>
-
-<br/>
-
-> *mansoura, egypt · full-time*
->
-> where it all began. shipped **5+ flutter apps** with clean architecture and **90%+ code reuse**. learned to care about widget trees. learned that `const` is your best friend.
-
-</details>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    ✨ THINGS I'VE BUILT ✨                       -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## &nbsp;✨&nbsp; things i've built (with love)
+<!-- ====== FEATURED PROJECTS ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/>
+  &nbsp; Featured Projects
+</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🪙 &nbsp; Masroofi
-> *kids paying for lunch with wearables? yes please.*
-
-a fintech playground for kuwaiti schools. NFC payments through smart wearables, **2,000+ daily transactions**, AES-256 encryption, and a PCI-DSS compliant gateway. made load times **30% faster** because waiting is rude.
-
-`flutter` · `nfc` · `stripe` · `face id`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 &nbsp; Tie Driver
-> *delivery drivers deserve good tools too.*
-
-fleet ops with odoo vibes. real-time tasks with priorities, background GPS that doesn't kill your battery, and geofence clock-in because typing your timesheet is tragic in 2025.
-
-`flutter` · `gps` · `odoo` · `geofencing`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 &nbsp; Egyptian Drug Authority
-> *regulatory compliance, but make it usable.*
-
-**500+ government officials** scan, report, and sleep better thanks to offline queuing. 12+ API integrations under the hood. yes, government apps can look nice.
-
-`flutter` · `rest` · `offline-first`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛋️ &nbsp; اثاثي (Athathe)
-> *furniture shopping without the tabs-open chaos.*
-
-full e-commerce for furniture & home décor. category filtering, wishlists that actually persist, Stripe + Tap checkout. basically IKEA but make it cozy.
-
-`flutter` · `stripe` · `tap pay` · `wishlist`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏡 &nbsp; إثابة (Ithaba)
-> *saudi's first fractional real estate platform.*
-
-bringing real estate companies, financial institutions, and investors into one transparent place. contracts you can actually understand. investment tracking that makes sense.
-
-`flutter` · `fintech` · `real estate`
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 &nbsp; Manpower
-> *HR, but from a human's perspective.*
-
-recruitment meets workforce management. job applications, geofenced attendance, shift management, payslips, notifications — all plugged into odoo ERP, all buttery smooth.
-
-`flutter` · `clean arch` · `bloc` · `odoo`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Masroofi</h3>
+      <p><sub><b>Fintech · Education · Kuwait 🇰🇼</b></sub></p>
+      <p>Kuwait's pioneering school financial management platform. NFC-based student payments via smart wearables, processing <b>2,000+ daily payments</b>. Biometric auth, AES-256 encryption, PCI-DSS compliant gateway.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NFC-0f172a?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Biometrics-1f2937?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚚 Tie Driver</h3>
+      <p><sub><b>Fleet Operations · Egypt 🇪🇬</b></sub></p>
+      <p>Odoo-integrated fleet app with real-time delivery/pickup task assignments, background GPS tracking, and one-tap geofence-validated clock-in/out for drivers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GPS-3b82f6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Geofencing-1f2937?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👷 Tie Work</h3>
+      <p><sub><b>HR Self-Service · Fleet · Egypt 🇪🇬</b></sub></p>
+      <p>All-in-one field employee app with Odoo ERP integration. Task management, GPS check-ins, leave requests, expense reports, overtime recording, and instant payslip downloads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bloc-02569B?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Athathe</h3>
+      <p><sub><b>E-Commerce · Egypt / Saudi Arabia 🇸🇦</b></sub></p>
+      <p>Full e-commerce platform for a furniture and home décor brand. Product catalog with filters, wishlist persistence, Stripe/Tap checkout integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tap%20Pay-3b82f6?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 إثابة (Ithaba)</h3>
+      <p><sub><b>Real Estate · Fintech · Saudi Arabia 🇸🇦</b></sub></p>
+      <p>Saudi Arabia's first fractional real estate utility contracts platform. Connects RE companies, financial institutions, and investors with transparent contract management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Fintech-1f2937?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Real%20Estate-3b82f6?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🙏 Salat Posture Detection</h3>
+      <p><sub><b>AI / Computer Vision · Open Source ⭐</b></sub></p>
+      <p>🏆 <b>1st Place - University AI Competition.</b> AI-powered system detecting key postures in Islamic prayer using deep learning and TensorFlow Lite on-device inference.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep%20Learning-1f2937?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
+  <a href="https://karawia-portfolio.vercel.app/#projects">
+    <img src="https://img.shields.io/badge/🔥%20Explore%20All%20Projects%20on%20Portfolio-3b82f6?style=for-the-badge&labelColor=0f172a" alt="View All Projects"/>
+  </a>
+</div>
 
 <br/>
 
-✧ ───── ⋆ ⋅ ☾ ⋅ ⋆ ───── ✧
+<!-- ====== GITHUB STATS ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"/>
+  &nbsp; GitHub Analytics
+</h2>
 
-[**see them all, prettier, over here →**](https://karawia-portfolio.vercel.app/)
+<div align="center">
 
-✧ ───── ⋆ ⋅ ☽ ⋅ ⋆ ───── ✧
+<a href="https://github.com/Abdokarawia">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdokarawia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Abdokarawia">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdokarawia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Abdokarawia">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdokarawia&theme=tokyonight&hide_border=true&background=0f172a&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Abdokarawia">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdokarawia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</a>
+
+<br/><br/>
+
+<!-- ===== Activity Graph ===== -->
+<a href="https://github.com/Abdokarawia">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdokarawia&bg_color=0f172a&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="98%"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                       🌌 GITHUB LORE 🌌                          -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ====== EXPERIENCE TIMELINE ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/>
+  &nbsp; Experience Timeline
+</h2>
 
-## &nbsp;🌌&nbsp; my github lore
+<table>
+  <tr>
+    <td align="center" width="140"><b>Aug 2025<br/>— Present</b><br/><sub>🔥 Current</sub></td>
+    <td><b>Senior Flutter Developer</b> @ <b>NYOTA Studio</b><br/><sub>Full-time · Hybrid · Alexandria, Egypt</sub><br/>Owning architecture and delivery for Tie Driver, Tie Work & Manpower — serving 200+ active users. Built geofence attendance, real-time route tracking, and offline-first SQLite sync (45% data-issue reduction).</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mar 2023<br/>— Apr 2025</b><br/><sub>🌍 Remote</sub></td>
+    <td><b>Flutter Developer</b> @ <b>Happy Softwares</b><br/><sub>Remote · Saudi Arabia</sub><br/>Delivered 8+ cross-platform apps for international fintech, e-commerce & healthcare clients. Built shared Flutter packages adopted across 6 projects (25% faster feature dev). 5-star client satisfaction.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Feb 2024<br/>— Jul 2024</b><br/><sub>📝 Contract</sub></td>
+    <td><b>Flutter Developer</b> @ <b>Spectrum for Information Systems</b><br/><sub>Part-time Contract · Cairo, Egypt</sub><br/>Built the Egyptian Drug Authority app for pharma regulatory compliance, serving 500+ officials. Integrated 12+ RESTful endpoints with offline queuing.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Jan 2022<br/>— Jan 2023</b><br/><sub>🏢 Full-time</sub></td>
+    <td><b>Flutter Developer</b> @ <b>Ektml Technology Solutions</b><br/><sub>Full-time · Hybrid · Mansoura, Egypt</sub><br/>Shipped 5+ Flutter apps with Clean Architecture (MVVM) achieving 90%+ code reuse. Optimised UI performance through widget tree refactoring and Bloc state management.</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ====== EDUCATION ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="28"/>
+  &nbsp; Education & Recognition
+</h2>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🎓 University of Mansoura</h3>
+      <p><b>B.Sc. in Computer Science</b> · 2019 – 2023<br/>
+      GPA: <b>3.3 / 4.0</b> (83%) · <i>Very Good with Honours</i></p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🏆 1st Place</h3>
+      <p><b>University AI Competition</b> · 2023<br/>
+      Led team to build a Flutter + TensorFlow Lite on-device inference app — outperformed <b>20+ teams</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ====== CONTACT ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/tCdHRfssVpdIQ/giphy.gif" width="28"/>
+  &nbsp; Let's Build Something Remarkable
+</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdokarawia&show_icons=true&count_private=true&hide_border=true&title_color=e0c3fc&icon_color=ff6b9d&text_color=c9d1d9&bg_color=1a1625&include_all_commits=true&ring_color=e0c3fc" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdokarawia&layout=compact&hide_border=true&title_color=e0c3fc&text_color=c9d1d9&bg_color=1a1625&langs_count=6" />
+Open to <b>freelance projects</b> and <b>full-time opportunities</b>.<br/>
+Whether it's a new product, a complex feature, or a full app — I'm ready to deliver.
 
-<br/>
-
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdokarawia&hide_border=true&background=1a1625&stroke=e0c3fc&ring=ff6b9d&fire=ffa07a&currStreakNum=e0c3fc&sideNums=e0c3fc&currStreakLabel=ff6b9d&sideLabels=95d5b2&dates=a8a8b3" />
-
-<br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdokarawia&bg_color=1a1625&color=e0c3fc&line=ff6b9d&point=ffa07a&area=true&hide_border=true&area_color=ff6b9d" />
-
-<br/>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Abdokarawia&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12)
-
-</div>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                        🎓 WHERE I GREW 🎓                         -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## &nbsp;🎓&nbsp; where i grew my brain
-
-> ### ✦ &nbsp; University of Mansoura &nbsp; ✦
-> *bsc computer science · 2019 – 2023*  
-> *GPA 3.3 / 4.0 · very good with honours*
->
-> <br/>
->
-> 🥇 &nbsp; **won 1st place at the uni AI competition**  
-> <sub>built a flutter app with on-device tensorflow lite inference. beat 20+ teams. cried a little (happy tears).</sub>
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                     💌 LET'S TALK 💌                             -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## &nbsp;💌&nbsp; let's talk
-
-<div align="center">
-
-*i'm always down to chat about flutter, architecture, coffee, or why the new material 3 color system is chef's kiss.*
-
-<br/>
+<br/><br/>
 
 <a href="mailto:abdelrahmankarawia2@gmail.com">
-  <img src="https://img.shields.io/badge/💌_send_me_a_letter-ff6b9d?style=for-the-badge&labelColor=1a1625"/>
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&labelColor=0f172a" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/abdelrahman-karawia-3aa1b0200/">
-  <img src="https://img.shields.io/badge/🌸_linkedin-e0c3fc?style=for-the-badge&labelColor=1a1625&logoColor=1a1625"/>
+  <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0f172a" alt="LinkedIn"/>
 </a>
 <a href="https://karawia-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/✨_portfolio-ffa07a?style=for-the-badge&labelColor=1a1625"/>
-</a>
-<a href="tel:+201116660056">
-  <img src="https://img.shields.io/badge/📱_+20_111_666_0056-95d5b2?style=for-the-badge&labelColor=1a1625"/>
+  <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                          🌙 FOOTER 🌙                             -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=thanks%20for%20scrolling%20%E2%9C%A7&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
-
+<!-- ====== FOOTER ====== -->
 <div align="center">
 
-```
-   ꙳    ·        ⋆   ·    "code is poetry"    ꙳        ⋆
- ·    ⋆    ·   ꙳      — somebody, probably     ꙳    ·   ⋆
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&fontAlignY=75&animation=twinkling" width="100%"/>
 
-<sub>✦ made with too much coffee and just enough magic ✦</sub>
-
-<img src="https://komarev.com/ghpvc/?username=Abdokarawia&style=flat-square&color=e0c3fc&label=you're+visitor+%23" />
+<sub>⭐ From <a href="https://github.com/Abdokarawia">Abdokarawia</a> · Built with care in Egypt 🇪🇬</sub>
 
 </div>
